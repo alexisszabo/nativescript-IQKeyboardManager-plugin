@@ -1,0 +1,10 @@
+.vscode
+.idea
+.DS_Store
+*.js
+*.js.map
+*.log
+package-lock.json
+*.d.ts
+index.d.ts
+references.d.ts
